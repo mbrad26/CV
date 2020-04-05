@@ -51,15 +51,10 @@ Level 4 Diploma for Financial Advisors (October 2013 - July 2014)
 
 ## Experience
 
-**Libra Bank** (February 2003 to September 2006)
-*Customer Advisor*
-
-**SC Com-Beton SA** (May 1999 to February 2003)
-*Administrative Assistant*
 
 ## Hobbies
 
-The Great Outdoors - I love being surounded by nature and experience it in all its glory. I love camping, especially camping in my amazing De Waard tent from early spring till late in the season. Nothing compares with that feeling when you wake up in the morning in your tent surrounded by nature, either in a lovely camping site somewhere in rural France or somewhere high in the mountains.
+The Great Outdoors - I love being surounded by nature and experience it in all its glory. I love camping, especially camping in my De Waard tent from early spring till late in the season. Nothing compares with that feeling when you wake up in the morning in your tent surrounded by nature, either in a lovely camping site somewhere in rural France or somewhere high in the mountains.
 
 Fitness become a hobby of mine as soon as I started approaching the magical number 40 and realized that probably I won't live forever as previously thought. I'm trying to train at least 3 times a week, anything from high intensity workouts like HIIT to lifting weights, rowing on my WaterRower or cycling. 
 
