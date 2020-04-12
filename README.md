@@ -18,7 +18,7 @@ Consider skills relevent to software development. Then consider your best skills
 I am a hungry learner who devours information about topics of interest with passion and energy. 
 
 #### Adaptable 
-I have lived in five regions, in three different countries, and I met and worked with people from all kind of walks of life. Every change brought something new in my life, new challenges, new opportunities, new places to explore and new things to learn.
+I have lived in five regions, in three different countries, and I met and worked with people from all walks of life. Every change brought something new in my life, new challenges, new opportunities, new places to explore and new things to learn.
 To be continued...
 
 #### This Skill
