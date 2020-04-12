@@ -14,6 +14,13 @@ To be continued…
 
 Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
 
+#### Quick Learner 
+I am a hungry learner who devours information about topics of interest with passion and energy. 
+
+#### Adaptable 
+I have lived in five regions, in three different countries, and I met and worked with people from all kind of walks of life. Every change brought something new in my life, new challenges, new opportunities, new places to explore and new things to learn.
+To be continued...
+
 #### This Skill
 
 - Experience
@@ -50,7 +57,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 Level 4 Diploma for Financial Advisors (October 2013 - July 2014)
 
 ## Experience
-
+To be continued...
 
 ## Hobbies
 
@@ -58,4 +65,4 @@ The Great Outdoors - I love being surrounded by nature and experience it in all 
 
 Fitness become a hobby of mine as soon as I started to realize that probably I won't live forever as previously thought. I'm trying to train at least 3 times a week, anything from high intensity workouts like HIIT to lifting weights, rowing on my WaterRower or cycling. 
 
-Photography 
+Photography
