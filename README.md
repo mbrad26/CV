@@ -19,6 +19,7 @@ I am a hungry learner who devours information about topics of interest with pass
 
 #### Adaptable 
 I have lived in five regions, in three different countries, and I met and worked with people from all walks of life. Every change brought something new in my life, new challenges, new opportunities, new places to explore and new things to learn.
+
 To be continued...
 
 #### This Skill
