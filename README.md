@@ -15,7 +15,7 @@ My background is in financial industry, sales and logistics where I learned to w
 I am a hungry learner who devours information about topics of interest with passion and energy.
 
 At Makers I taught myself Ruby on Rails in one week and used it to build, together with my team a fully tested and working clone of Facebook. 
-For the end of course project I learned enough React, Cypress, Jest and Enzyme during a single weekend, to able to contribute in a meaningful way to my team’s project and goals. 
+For the end of course project I learned enough React, Cypress, Jest and Enzyme during a single weekend, to enable me to contribute in a meaningful way to my team’s project and goals. 
 
 #### Adaptable 
 I have lived in five regions, in three different countries, and I met and worked with people from all backgrounds. Every change brought something new in my life, new challenges and new opportunities.
