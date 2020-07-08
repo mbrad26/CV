@@ -9,6 +9,19 @@ My background is in financial industry, sales and logistics where I learned to w
 **Tech Stack**: Ruby, JavaScript, SQL, HTML, CSS,  Sinatra, Rails, React, Bootstrap, Rspec, Capybara, Jasmine, Jest, Enzyme, Cypress
 
 
+## Projects
+
+
+| Name                       | Description                                                                   | Technologies                     |  Testing                           |
+| -------------------------- |:-----------------------------------------------------------------------------:|:-------------------|-------------------|
+| [Acebook](https://github.com/mbrad26/acebook-HoneyBunnies)      | A test driven Facebook clone - team project                | Ruby, Ruby on Rails, Bootstrap, PostgreSQL, Travis CI, Heroku, Active Storage           | RSpec, Capybara      |
+[Chronomy - front end](https://github.com/mbrad26/final-project-front-end)            | A tool to create curated playlists of TikToks  | JavaScript, React, Travis CI, Heroku        | Cypress, Jest, Enzyme       | 
+| [MakersBnB](https://github.com/mbrad26/makersBnB)       | A test driven Airbnb clone - team project                                         | Ruby, Sinatra, Bootstrap, PostgreSQL           | RSpec, Capybara                    |
+| [Bank Tech Test](https://github.com/mbrad26/bank-tech-test)            | Small project to practice TDD, Encapsulation, SRP, Dependency Injection  | Ruby         | RSpec       |   
+| [Takeaway Challenge](https://github.com/mbrad26/takeaway-challenge)            | Small project to practice TDD, Encapsulation, SRP, Dependency Injection  | Ruby         | RSpec       | 
+[Airport Challenge](https://github.com/mbrad26/airport_challenge_2)            | Small project to practice TDD, Encapsulation, SRP, Dependency Injection  | Ruby         | RSpec       | 
+
+
 ## Skills
 
 #### Quick Learner
@@ -18,7 +31,7 @@ At Makers I taught myself Ruby on Rails in one week and used it to build, togeth
 For the end of course project I learned enough React, Cypress, Jest and Enzyme during a single weekend, to enable me to contribute in a meaningful way to my team’s project and goals. 
 
 #### Inquisitive 
-I love to learn and read about software development from all the available sources(Youtube, Medium Blogs etc). I often find myself on Google searching for new books about programming  to study from and to help me deepen my understanding.
+I love to learn and read about software development from all the available sources(Youtube, Medium etc). I often find myself on Google searching for new books about programming  to study from and to help me deepen my understanding.
 
 #### Adaptable 
 I have lived in five regions, in three different countries, and I met and worked with people from all backgrounds. Every change brought something new in my life, new challenges and new opportunities.
@@ -34,23 +47,27 @@ At Makers Academy we often worked on different, challenging projects in teams an
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (April 2020 to July 2020)
 
-- OOP, TDD, MVC, DDD
+A 16 week intensive programming bootcamp with a focus on processes such as TDD/BDD, Agile practices and learning how to learn.
+- Object oriented programming and software design
+- Full-stack web development
+- Pair programming
+- OOP, TDD, MVC
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### "Petre Andrei" University of Iasi, Romania / Economics (2004 to 2008)
-
-- Finance
-- English translation or equivalent 2:1
+#### London Institute of Banking and Finance
+Level 4 Diploma for Financial Advisors (October 2013 - July 2014)
 
 #### University D'Auvergne - Clermont-Ferrand, France (April 2007 - July 2007)
 - Scholorship : The marketing of the technological innovations
 
-#### The London Institute of Banking and Finance
-Level 4 Diploma for Financial Advisors (October 2013 - July 2014)
+#### "Petre Andrei" University of Iasi, Romania / Economics (2004 to 2008)
+
+- Finance & Banking
+- English translation or equivalent 2:1
 
 ## Experience
 To be continued...
@@ -59,6 +76,6 @@ To be continued...
 
 The Great Outdoors - I love being surrounded by nature and experience it in all its glory. I love camping, especially camping in my De Waard tent from early spring till late in the season. Nothing compares with that feeling when you wake up in the morning in your tent surrounded by nature, either in a lovely camping site somewhere in rural France or somewhere high in the mountains.
 
-Fitness become a hobby of mine as soon as I started to realize that probably I won't live forever as previously thought. I'm trying to train at least 3 times a week, anything from high intensity workouts like HIIT to lifting weights, rowing on my WaterRower or cycling. 
+Fitness become a hobby of mine as soon as I started to realize that probably I won't live forever as previously thought. I'm trying to train at least 3 times a week, anything from high intensity workouts, lifting weights, rowing on my WaterRower or cycling. 
 
-Photography
+Photography and Travelling
