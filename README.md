@@ -1,7 +1,9 @@
 ## Marius Brad
 
 I am a driven, dedicated and energetic junior full stack developer, looking for a tech company where I can continue to learn and grow as a competent software developer. 
-For the past few years I have been teaching myself to code and because writing code brings me immense personal satisfaction I decided to join Makers Academy to boost my programing knowledge. At Makers I learned about the fundamentals of OOP, TDD, BDD and best practices and methodologies when it comes to writing tested clean code. 
+
+For the past few years I have been teaching myself to code and because writing code brings me immense personal satisfaction I decided to join Makers Academy to boost my programing knowledge. At Makers I learned about the fundamentals of OOP, TDD, BDD and best practices and methodologies when it comes to writing well tested and clean code. 
+
 My background is in financial industry, sales and logistics where I learned to work, communicate and collaborate with people from various departments, levels and walks of life.
 
 **Tech Stack**: Ruby, JavaScript, SQL, HTML, CSS,  Sinatra, Rails, React, Bootstrap, Rspec, Capybara, Jasmine, Jest, Enzyme, Cypress
