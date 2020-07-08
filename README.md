@@ -67,7 +67,7 @@ A 16 week intensive programming bootcamp with a focus on TDD/BDD, Agile practice
 - Scholorship : The marketing of the technological innovations
 
 
-#### "Petre Andrei" University of Iasi, Romania / Economics (2004 to 2008)
+#### "Petre Andrei" University of Iasi, Romania / Economics (2004 to 2010)
 
 - Finance & Banking
 - English translation or equivalent 2:1
@@ -75,7 +75,7 @@ A 16 week intensive programming bootcamp with a focus on TDD/BDD, Agile practice
 
 # Experience
 
-**Swanmore College, Southampton** - *Exam Invigilator(November 2019 - April 2020)*
+**Swanmore College**, Southampton, UK - *Exam Invigilator(November 2019 - April 2020)*
 
 **Utilita Energy**, UK - *Customer Advisor(September 2017 - June 2019)* - part time
 
