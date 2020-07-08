@@ -11,30 +11,18 @@ My background is in financial industry, sales and logistics where I learned to w
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
+#### Quick Learner
+I am a hungry learner who devours information about topics of interest with passion and energy.
 
-#### Quick Learner 
-I am a hungry learner who devours information about topics of interest with passion and energy. 
+At Makers I taught myself Ruby on Rails in one week and used it to build, together with my team a fully tested and working clone of Facebook. 
+For the end of course project I learned enough React, Cypress, Jest and Enzyme during a single weekend, to able to contribute in a meaningful way to my team’s project and goals. 
 
 #### Adaptable 
-I have lived in five regions, in three different countries, and I met and worked with people from all walks of life. Every change brought something new in my life, new challenges, new opportunities, new places to explore and new things to learn.
+I have lived in five regions, in three different countries, and I met and worked with people from all backgrounds. Every change brought something new in my life, new challenges and new opportunities.
 
-To be continued...
+#### Inquisitive 
+I love to learn and read about software development from all the available sources(Youtube, Medium Blogs etc). I often find myself on Google searching for new books about programming  to study from and to help me deepen my understanding.
 
-#### This Skill
-
-- Experience
-- Achievements
-- Evidence
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
 
 ## Education
 
