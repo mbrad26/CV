@@ -58,19 +58,24 @@ A 16 week intensive programming bootcamp with a focus on processes such as TDD/B
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### London Institute of Banking and Finance
-- Level 4 Diploma for Financial Advisors (October 2013 - July 2014)
+
+#### London Institute of Banking and Finance (October 2013 - July 2014)
+- Level 4 Diploma for Financial Advisors 
+
 
 #### University D'Auvergne - Clermont-Ferrand, France (April 2007 - July 2007)
 - Scholorship : The marketing of the technological innovations
+
 
 #### "Petre Andrei" University of Iasi, Romania / Economics (2004 to 2008)
 
 - Finance & Banking
 - English translation or equivalent 2:1
 
+
 # Experience
 To be continued...
+
 
 # Hobbies
 
