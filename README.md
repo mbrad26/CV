@@ -1,4 +1,4 @@
-## Marius Brad
+# Marius Brad
 
 I am a driven, dedicated and energetic junior full stack developer, looking for a tech company where I can continue to learn and grow as a competent software developer. 
 
@@ -9,7 +9,7 @@ My background is in financial industry, sales and logistics where I learned to w
 **Tech Stack**: Ruby, JavaScript, SQL, HTML, CSS,  Sinatra, Rails, React, Bootstrap, Rspec, Capybara, Jasmine, Jest, Enzyme, Cypress
 
 
-## Projects
+# Projects
 
 
 | Name                       | Description                                                                   | Technologies                     |  Testing                           |
@@ -22,7 +22,7 @@ My background is in financial industry, sales and logistics where I learned to w
 [Airport Challenge](https://github.com/mbrad26/airport_challenge_2)            | Small project to practice TDD, Encapsulation, SRP, Dependency Injection  | Ruby         | RSpec       | 
 
 
-## Skills
+# Skills
 
 #### Quick Learner
 I am a hungry learner who devours information about topics of interest with passion and energy.
@@ -45,7 +45,7 @@ I am a goal-oriented person that loves working with other developers to achieve 
 At Makers Academy we often worked on different, challenging projects in teams and this proved to be the most valuable experience during the course. I am always comfortable finding my place in a team, actively listen to my colleagues ideas and I value open and friendly communication.
 
 
-## Education
+# Education
 
 #### Makers Academy (April 2020 to July 2020)
 
@@ -69,10 +69,10 @@ Level 4 Diploma for Financial Advisors (October 2013 - July 2014)
 - Finance & Banking
 - English translation or equivalent 2:1
 
-## Experience
+# Experience
 To be continued...
 
-## Hobbies
+# Hobbies
 
 The Great Outdoors - I love being surrounded by nature and experience it in all its glory. I love camping, especially camping in my De Waard tent from early spring till late in the season. Nothing compares with that feeling when you wake up in the morning in your tent surrounded by nature, either in a lovely camping site somewhere in rural France or somewhere high in the mountains.
 
