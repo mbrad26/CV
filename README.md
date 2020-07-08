@@ -1,5 +1,7 @@
 # Marius Brad
 
+[Projects](#Projects) | [Skills](#Skills) | [Education](#Education) | [Experience](#Experience) | [Hobbies](#Hobbies) 
+
 I am a driven, dedicated and energetic junior full stack developer, looking for a tech company where I can continue to learn and grow as a competent software developer. 
 
 For the past few years I have been teaching myself to code and because writing code brings me immense personal satisfaction I decided to join Makers Academy to boost my programing knowledge. At Makers I learned about the fundamentals of OOP, TDD, BDD and best practices and methodologies when it comes to writing well tested and clean code. 
