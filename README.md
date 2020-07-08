@@ -49,10 +49,10 @@ At Makers Academy we often worked on different, challenging projects in teams an
 
 #### Makers Academy (April 2020 to July 2020)
 
-A 16 week intensive programming bootcamp with a focus on processes such as TDD/BDD, Agile practices and learning how to learn.
+A 16 week intensive programming bootcamp with a focus on TDD/BDD, Agile practices and learning how to learn.
 - Object oriented programming and software design
 - Full-stack web development
-- Pair programming
+- Extensive pair programming
 - OOP, TDD, MVC
 - Agile/XP
 - Ruby, Rails, JavaScript
@@ -74,7 +74,20 @@ A 16 week intensive programming bootcamp with a focus on processes such as TDD/B
 
 
 # Experience
-To be continued...
+
+**Swanmore College, Southampton** - *Exam Invigilator(November 2019 - April 2020)*
+
+**Utilita Energy**, UK - *Customer Advisor(September 2017 - June 2019)* - part time
+
+**Solsbury Solutions Ltd**, UK - *Agency Driver(August 2015 - July 2017)* - part time
+
+**Sainsbury’s Supermarket Ltd**, UK - *Delivery Driver(September 2014 - June 2015)* - part time
+
+**SC Dynamic’92 SRL**,  Romania - *Sales Representative(July 2007 - August 2009)*
+
+**Libra Bank**,  Romania - *Customer Advisor(February 2003 - September 2006)*
+
+**SC Com-Beton SA**,  Romania - *Admin Assistant(May 1999 - February 2003)*
 
 
 # Hobbies
