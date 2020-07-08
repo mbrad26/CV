@@ -1,13 +1,10 @@
 ## Marius Brad
 
-I am a University graduate, with a Bachelor’s Degree in Finance & Banks, who started coding after reading an article on Business Insider about how anyone can learn to code. Once I made my first “Hello World!” in HTML, I was hooked and I started to invest time, energy and passion into learning about programing.
+I am a driven, dedicated and energetic junior full stack developer, looking for a tech company where I can continue to learn and grow as a competent software developer. 
+For the past few years I have been teaching myself to code and because writing code brings me immense personal satisfaction I decided to join Makers Academy to boost my programing knowledge. At Makers I learned about the fundamentals of OOP, TDD, BDD and best practices and methodologies when it comes to writing tested clean code. 
+My background is in financial industry, sales and logistics where I learned to work, communicate and collaborate with people from various departments, levels and walks of life.
 
-My journey started with HTML and CSS and after my first single webpage app was ready I decided to learn a bit of JavaScript and Ruby, and I ended up spending more and more time on codecademy.com, teamtreehouse.com or freecodecamp.org. But this wasn’t enough as I felt there is more to learn and read about and I started buying books to help me better understand this technologies.
-
-Then “Big Data” caught my attention and so my first stop was on Amazon.com to order my first book about SQL queries, the excellent “SQL Queries for mere mortals” by J.Viescas. 800 pages of SQL star dust on how to navigate your way around this deceitful simple language. 
-
-By now it was inevitable that I will come across Python at some point and I did indeed. After a short shopping session on Amazon I was in Python world and what a world! Easy, simple and elegant syntax, fantastic libraries (PyGame, Matplotlib, Pandas, etc) and frameworks (Django, Flask). And what about those list comprehensions! An absolute joy to read and learn about Python. Because Python is so connected with Data Science, and AI is such a hot topic I couldn’t help myself and I had to learn about the magic behind Deep Learning. And you guessed it, go to Amazon, add book to shopping cart, checkout, pay, read, learn, repeat. 
-To be continued…
+**Tech Stack**: Ruby, JavaScript, SQL, HTML, CSS,  Sinatra, Rails, React, Bootstrap, Rspec, Capybara, Jasmine, Jest, Enzyme, Cypress
 
 
 ## Skills
