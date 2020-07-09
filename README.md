@@ -32,19 +32,16 @@ I am a hungry learner who devours information about topics of interest with pass
 At Makers I taught myself Ruby on Rails in one week and used it to build, together with my team a fully tested and working clone of Facebook. 
 For the end of course project I learned enough React, Cypress, Jest and Enzyme during a single weekend, to enable me to contribute in a meaningful way to my team’s project and goals. 
 
+#### Collaborator 
+
+I am a goal-oriented person that loves working with other developers to achieve a common goal.
+At Makers Academy we often worked on different, challenging projects in teams and this proved to be the most valuable experience during the course. I am always comfortable finding my place in a team, actively listen to my colleagues ideas and I value open and friendly communication.
+
 #### Inquisitive 
 I love to learn and read about software development from all the available sources(Youtube, Medium etc). I often find myself on Google searching for new books about programming  to study from and to help me deepen my understanding.
 
 #### Adaptable 
 I have lived in five regions, in three different countries, and I met and worked with people from all backgrounds. Every change brought something new in my life, new challenges and new opportunities.
-
-#### Inquisitive 
-I love to learn and read about software development from all the available sources(Youtube, Medium Blogs etc). I often find myself on Google searching for new books about programming  to study from and to help me deepen my understanding.
-
-#### Collaborator 
-
-I am a goal-oriented person that loves working with other developers to achieve a common goal.
-At Makers Academy we often worked on different, challenging projects in teams and this proved to be the most valuable experience during the course. I am always comfortable finding my place in a team, actively listen to my colleagues ideas and I value open and friendly communication.
 
 
 # Education
